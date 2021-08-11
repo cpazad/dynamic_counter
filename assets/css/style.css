@@ -1,0 +1,58 @@
+@font-face {
+	src: url('../fonts/UbuntuCondensed-Regular.ttf');
+	font-family: 'ubuntu';
+}
+* {
+	font-family: 'ubuntu';
+}
+
+
+body {
+	background-color: #0f2c11b4;
+}
+
+.btn {
+	border-radius: 0px !important;
+}
+
+input, input:focus {
+	border-radius: 0px !important;
+	outline: none !important;
+	box-shadow: none !important;
+	border: 1px solid #ccc !important;
+	
+}
+input[type="submit"]  {
+	border: 1px solid transparent !important;
+	
+	
+}
+input[type=text]{
+	width: 100%;
+}
+
+.bar {
+	height: 25px;
+	width: 100%;
+	background-color: rgb(187, 180, 180);
+	border-radius:5px;
+}
+
+h1 {
+	font-size: 100px;
+	font-family: impact;
+}
+.card-header h3 {
+	text-align: center;
+}
+.form-group input{
+	display: flex;
+	;
+}
+.card-body h1{
+	text-align: center;
+}
+.form-control {
+	text-align: center;
+	width: 70%;
+}
