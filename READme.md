@@ -1,7 +1,8 @@
 # Dynamic Counter
-JS Class Project - MERN STACK
+*JS Class Project - MERN STACK*
 
 We need to create a counter with a anti-Progress bar
+
 
 - - - 
 ![Prject Image](dynamic_counter.png)
